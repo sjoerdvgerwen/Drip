@@ -4,7 +4,7 @@
     <projectFile>Drip.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7838b44a-ad68-4f06-82ea-d4579e2b07c9" name="Default Changelist" comment="" />
+    <list default="true" id="7838b44a-ad68-4f06-82ea-d4579e2b07c9" name="Default Changelist" comment="Test if Git is working correctly" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Views/Home/Test.cshtml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1pIOBQqWsWSeqCqM8qyfQQgegHO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,17 +74,27 @@
       <option name="presentableId" value="Default" />
       <updated>1614867003630</updated>
       <workItem from="1614867007707" duration="1627000" />
-      <workItem from="1614870457722" duration="324000" />
+      <workItem from="1614870457722" duration="682000" />
     </task>
+    <task id="LOCAL-00001" summary="Test if Git is working correctly">
+      <created>1614870890895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614870890895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Test if Git is working correctly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test if Git is working correctly" />
   </component>
   <component name="WindowStateProjectService">
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1614870765010">
@@ -91,6 +109,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="216" y="265" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614870675662" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614870897318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614870897318" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614869492559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

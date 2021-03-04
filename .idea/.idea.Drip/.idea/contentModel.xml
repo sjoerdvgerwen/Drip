@@ -9,6 +9,7 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="Controllers" t="Include">
         <e p="HomeController.cs" t="Include" />
+        <e p="LoginController.cs" t="Include" />
       </e>
       <e p="Drip.csproj" t="IncludeRecursive" />
       <e p="Drip.sln" t="IncludeFlat" />
