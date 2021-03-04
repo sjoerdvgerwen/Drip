@@ -10,7 +10,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pIOBQqWsWSeqCqM8qyfQQgegHO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Drip">
@@ -62,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614867003630</updated>
       <workItem from="1614867007707" duration="1627000" />
+      <workItem from="1614870457722" duration="324000" />
     </task>
     <servers />
   </component>
@@ -74,14 +79,18 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="838" y="418" key="Github.ShareDialog" timestamp="1614869812020">
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1614870765010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614869812020" />
-    <state x="922" y="165" key="SettingsEditor" timestamp="1614869941515">
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614870765010" />
+    <state x="664" y="226" key="Github.UntrackedFilesDialog" timestamp="1614870773420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614869941515" />
+    <state x="664" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614870773420" />
+    <state x="216" y="265" key="SettingsEditor" timestamp="1614870675662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="216" y="265" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614870675662" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614869492559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
