@@ -1,7 +1,12 @@
+using Microsoft.AspNetCore.Mvc;
+
 namespace Drip.Controllers
 {
-    public class LoginController
+    public class LoginController : Controller
     {
-        
+        public IActionResult Login()
+        {
+            return View();
+        }
     }
 }

@@ -36,8 +36,10 @@
         <e p="Home" t="Include">
           <e p="Index.cshtml" t="Include" />
           <e p="Privacy.cshtml" t="Include" />
-          <e p="Test.cshtml" t="Include" />
-          <e p="Test.cshtml.cs" t="Include" />
+        </e>
+        <e p="Login" t="Include">
+          <e p="Login.cshtml" t="Include" />
+          <e p="Login.cshtml.cs" t="Include" />
         </e>
         <e p="Shared" t="Include">
           <e p="_Layout.cshtml" t="Include" />
@@ -48,6 +50,7 @@
       <e p="wwwroot" t="Include">
         <e p="css" t="Include">
           <e p="site.css" t="Include" />
+          <e p="stylesLogin.css" t="Include" />
         </e>
         <e p="favicon.ico" t="Include" />
         <e p="js" t="Include">

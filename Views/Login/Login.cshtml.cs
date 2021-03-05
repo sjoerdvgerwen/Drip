@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Drip.Views.Home
+namespace Drip.Views.Login
 {
-    public class Test : PageModel
+    public class Login : PageModel
     {
         public void OnGet()
         {
