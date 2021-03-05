@@ -39,3 +39,4 @@ C:\Users\Sjoerd\Documents\S2 Software New\Individueel\Individueel Project\Drip\o
 C:\Users\Sjoerd\Documents\S2 Software New\Individueel\Individueel Project\Drip\obj\Debug\net5.0\Drip.pdb
 C:\Users\Sjoerd\Documents\S2 Software New\Individueel\Individueel Project\Drip\obj\Debug\net5.0\Drip.genruntimeconfig.cache
 C:\Users\Sjoerd\Documents\S2 Software New\Individueel\Individueel Project\Drip\obj\Debug\net5.0\Drip.csproj.CopyComplete
+C:\Users\Sjoerd\Documents\S2 Software New\Individueel\Individueel Project\Drip\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
